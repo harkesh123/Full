@@ -1,0 +1,33 @@
+html{
+    background-size: cover;
+	background-image: url("http://www.kinyu-z.net/data/wallpapers/172/1306515.jpg")
+}
+.bar{
+	display: inline-flex;
+	padding-left: 95px;
+	padding-top: 40px;
+}
+.link{
+	padding-left: 45px;
+}
+.buttons{
+   padding-left: 150px;
+}
+.bg-Colour{
+	background-color:  rgb(255,185,0);
+}
+.bg-Colour1{
+	background-color:  rgb(240,240,240);
+}
+
+.form{
+	padding-top: 20px;
+	padding-right: 450px;
+}
+.text{
+	text-decoration-style: solid;
+	padding-left: 150px; 
+	color: blue;
+	padding-top: 150px;
+
+}
